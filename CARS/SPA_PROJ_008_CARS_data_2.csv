@@ -1,0 +1,648 @@
+id,brand_id,name
+0,0,MiTo
+2,0,Giulietta
+5,0,4C
+9,0,156
+14,0,159
+20,0,145
+27,0,146
+35,0,147
+44,0,155
+54,0,164
+65,0,166
+77,0,Brera
+90,0,GT
+104,0,GTV
+119,0,Spider
+135,0,33
+152,0,75
+153,1,DB7
+155,1,DB9
+158,1,DBS
+162,1,Rapide
+167,1,Vanquish
+173,1,Vantage
+180,1,Virage
+181,2,A3
+183,2,A4
+186,2,A5
+190,2,A6
+195,2,Q3
+201,2,Q5
+208,2,Q7
+216,2,A1
+225,2,A7
+235,2,A8
+246,2,TT
+258,2,RS
+271,2,S Serisi
+285,2,R8
+300,2,100 Serisi
+316,2,80 Serisi
+333,2,90 Serisi
+334,3,Arnage
+336,3,Continental
+339,3,Mulsanne
+340,4,1 Serisi
+342,4,2 Serisi
+345,4,3 Serisi
+349,4,4 Serisi
+354,4,5 Serisi
+360,4,6 Serisi
+367,4,X1
+375,4,X3
+384,4,X4
+394,4,X5
+405,4,X6
+417,4,Z Serisi
+430,4,7 Serisi
+444,4,8 Serisi
+459,4,M Serisi
+460,5,BLS
+462,5,Brougham
+465,5,CTS
+469,5,DeVille
+474,5,Escalade
+480,5,Fleetwood
+487,5,Seville
+495,5,SRX
+504,5,STS
+505,6,Alia
+507,6,Chance
+510,6,Kimo
+514,6,Niche
+519,6,Tiggo
+520,7,Aveo
+522,7,Captiva
+525,7,Cruze
+529,7,Kalos
+534,7,Lacetti
+540,7,Spark
+547,7,Trax
+555,7,Epica
+564,7,Rezzo
+574,7,Tahoe
+585,7,Blazer
+597,7,Camaro
+610,7,Caprice
+624,7,Corvette
+639,7,Evanda
+640,8,300 C
+642,8,Sebring
+645,8,Stratus
+649,8,300 M
+654,8,Concorde
+660,8,Crossfire
+667,8,Grand Voyager
+675,8,Le Baron
+684,8,LHS
+694,8,Neon
+705,8,Pacifica
+717,8,PT Cruiser
+730,8,Voyager
+731,9,C3
+733,9,C4
+736,9,C4 Picasso
+740,9,C4 Cactus
+745,9,C-Elysee
+751,9,C5
+758,9,DS3
+766,9,DS4
+775,9,DS5
+785,9,Nemo
+796,9,Berlingo
+808,9,C1
+821,9,C2
+835,9,C3 Picasso
+850,9,Saxo
+866,9,Xsara
+883,9,AX
+901,9,BX
+920,9,Xantia
+940,9,ZX
+941,10,Duster
+943,10,Sandero
+946,10,Logan MCV
+950,10,Dokker
+955,10,Lodgy
+961,10,Logan
+968,10,Solenza
+976,10,1310
+985,10,Nova
+986,11,Lanos
+988,11,Nexia
+991,11,Nubira
+995,11,Espero
+1000,11,Korando
+1006,11,Leganza
+1013,11,Matiz
+1021,11,Musso
+1030,11,Racer
+1040,11,Super Saloon
+1051,11,Tico
+1052,12,Terios
+1054,12,Sirion
+1057,12,Applause
+1061,12,Charade
+1066,12,Copen
+1072,12,Cuore
+1079,12,Feroza
+1087,12,Materia
+1096,12,Move
+1106,12,YRV
+1107,13,Rich
+1109,13,Succe
+1110,14,Avenger
+1112,14,Caliber
+1115,14,Challenger
+1119,14,Durango
+1124,14,Intrepid
+1130,14,Journey
+1137,14,Magnum
+1145,14,Nitro
+1154,14,Ram
+1164,14,Spirit
+1175,14,Stealth
+1187,14,Viper
+1188,15,360
+1190,15,430
+1193,15,456
+1197,15,458
+1202,15,575
+1208,15,599
+1215,15,612
+1223,15,California
+1232,15,F Serisi
+1242,15,F355
+1253,15,FF
+1265,15,LaFerrari
+1266,16,Egea
+1268,16,Linea
+1271,16,Panda
+1275,16,Freemont
+1280,16,500
+1286,16,500C
+1293,16,500L
+1301,16,500X
+1310,16,Fiorino
+1320,16,Doblo
+1331,16,Doblo Combi
+1343,16,Doblo Cargo
+1356,16,Punto
+1370,16,Pratico
+1385,16,Palio
+1401,16,Albea
+1418,16,Uno
+1436,16,Tipo
+1455,16,Tempra
+1475,16,126 Bis
+1496,16,Brava
+1518,16,Bravo
+1541,16,Coupe
+1565,16,Idea
+1590,16,Marea
+1616,16,Siena
+1643,16,Stilo
+1671,16,Sedici
+1672,17,Fiesta
+1674,17,Focus
+1677,17,Mondeo
+1681,17,Kuga
+1686,17,B-Max
+1692,17,C-Max
+1699,17,S-Max
+1707,17,Galaxy
+1716,17,Tourneo Courier
+1726,17,Tourneo Connect
+1737,17,Ranger
+1749,17,Transit Courier
+1762,17,Transit Connect
+1776,17,Mustang
+1791,17,Escort
+1807,17,Fusion
+1824,17,Taunus
+1842,17,Explorer
+1861,17,Festiva
+1881,17,Granada
+1902,17,Ka
+1924,17,Orion
+1947,17,Scorpio
+1971,17,Sierra
+1972,18,Echo
+1974,18,Emgrand
+1977,18,Familia
+1981,18,FC
+2152,19,Civic
+2154,19,Jazz
+2157,19,Accord
+2161,19,CR-V
+2166,19,City
+2172,19,CR-Z
+2179,19,HR-V
+2187,19,CRX
+2196,19,Integra
+2206,19,Legend
+2217,19,Prelude
+2229,19,S2000
+2242,19,Shuttle
+2256,19,Stream
+2257,20,i10
+2259,20,i20
+2262,20,i30
+2266,20,Accent Blue
+2271,20,Elantra
+2277,20,ix35
+2284,20,Tucson
+2292,20,Santa Fe
+2301,20,Accent
+2311,20,Accent Era
+2322,20,Getz
+2334,20,Atos
+2347,20,iX20
+2361,20,ix55
+2376,20,Coupe
+2392,20,Excel
+2409,20,Galloper
+2427,20,Genesis
+2446,20,Grandeur
+2466,20,i40
+2487,20,Matrix
+2509,20,S-Coupe
+2532,20,Sonata
+2533,21,FX
+2535,21,G
+2538,21,I30
+2542,21,M
+2543,22,D-Max
+2545,22,Gemini
+2548,22,Trooper
+2549,23,Daimler
+2551,23,F-Type
+2554,23,S-Type
+2558,23,Sovereign
+2563,23,X-Type
+2569,23,XF
+2576,23,XJ
+2584,23,XJR
+2593,23,XJS
+2603,23,XK8
+2614,23,XKR
+2615,24,Renegade
+2617,24,Compass
+2620,24,Cherokee
+2624,24,Grand Cherokee
+2629,24,Wrangler
+2635,24,Commander
+2642,24,Patriot
+2643,25,Picanto
+2645,25,Rio
+2648,25,Ceed
+2652,25,Sportage
+2657,25,Pro Ceed
+2663,25,Soul
+2670,25,Sorento
+2678,25,Cerato
+2687,25,Sephia
+2697,25,Capital
+2708,25,Carens
+2720,25,Carnival
+2733,25,Clarus
+2747,25,Magentis
+2762,25,Opirus
+2778,25,Pride
+2795,25,Shuma
+2813,25,Venga
+2814,26,Kalina
+2816,26,Niva
+2819,26,Priora
+2823,26,Samara
+2828,26,VAZ
+2834,26,Vega
+2835,27,Aventador
+2837,27,Diablo
+2840,27,Gallardo
+2844,27,Huracan
+2845,28,Dedra
+2847,28,Delta
+2850,28,Kappa
+2854,28,Thema
+2859,28,Ypsilon
+2860,29,Range Rover Evoque
+2862,29,Range Rover
+2865,29,Range Rover Sport
+2869,29,Discovery
+2874,29,Defender
+2880,29,Freelander
+2881,30,Spyder
+2883,30,4 Serisi
+2886,30,Cambiocorsa
+2890,30,Ghibli
+2895,30,GranCabrio
+2901,30,GranSport
+2908,30,GranTurismo
+2916,30,GT
+2925,30,Quattroporte 4
+2926,31,3
+2928,31,6
+2931,31,CX-5
+2935,31,CX-3
+2940,31,MX-5
+2946,31,2
+2953,31,323
+2961,31,626
+2970,31,5
+2980,31,121
+2991,31,929
+3003,31,B Serisi
+3016,31,CX-9
+3030,31,Lantis
+3045,31,MPV
+3061,31,Premacy
+3078,31,RX
+3096,31,Xedos
+3097,32,A Serisi
+3099,32,B Serisi
+3102,32,C Serisi
+3106,32,E Serisi
+3111,32,CLS
+3117,32,CLA Serisi
+3124,32,S Serisi
+3132,32,GLA Serisi
+3141,32,GLC
+3151,32,GLK
+3162,32,GLE
+3174,32,GL Serisi
+3187,32,Vito
+3201,32,Vaneo
+3216,32,Viano
+3232,32,Citan
+3249,32,ML
+3267,32,SL
+3286,32,SLK
+3306,32,190 Serisi
+3327,32,200 Serisi
+3349,32,300 Serisi
+3372,32,500 Serisi
+3396,32,CL
+3421,32,CLC
+3447,32,CLK
+3474,32,G Serisi
+3502,32,R Serisi
+3503,33,Cooper
+3505,33,Cooper S
+3508,33,Cooper Countryman
+3512,33,Cooper Paceman
+3517,33,Cooper Clubman
+3523,33,John Cooper
+3530,33,One
+3531,34,ASX
+3533,34,Outlander
+3536,34,Pajero
+3540,34,L 200
+3545,34,Space Star
+3551,34,Attrage
+3558,34,Lancer
+3566,34,Colt
+3575,34,3000GT
+3585,34,Carisma
+3596,34,Eclipse
+3608,34,Galant
+3621,34,Grandis
+3622,35,Micra
+3624,35,Juke
+3627,35,Note
+3631,35,Qashqai
+3636,35,X-Trail
+3642,35,Almera
+3649,35,Primera
+3657,35,Navara
+3666,35,200 SX
+3676,35,Bluebird
+3687,35,Country
+3699,35,Maxima
+3712,35,Murano
+3726,35,NX Coupe
+3741,35,Pathfinder
+3757,35,Patrol
+3774,35,Rally Raid
+3792,35,Skyline GT-R
+3811,35,Skystar
+3831,35,Sunny
+3852,35,Terrano
+3853,36,Corsa
+3855,36,Astra
+3858,36,Insignia
+3862,36,Meriva
+3867,36,Zafira
+3873,36,Mokka
+3880,36,Adam
+3888,36,Vectra
+3897,36,Cascada
+3907,36,Omega
+3918,36,Tigra
+3930,36,Antara
+3943,36,Agila
+3957,36,Ascona
+3972,36,Calibra
+3988,36,Combo
+4005,36,Frontera
+4023,36,GT
+4042,36,Kadett
+4062,36,Rekord
+4063,37,208
+4065,37,301
+4068,37,308
+4072,37,508
+4077,37,2008
+4083,37,3008
+4090,37,5008
+4098,37,RCZ
+4107,37,Bipper
+4117,37,Partner
+4128,37,106
+4140,37,206
+4153,37,207
+4167,37,306
+4182,37,307
+4198,37,407
+4215,37,107
+4233,37,205
+4252,37,405
+4272,37,406
+4293,37,605
+4315,37,607
+4338,37,806
+4339,38,911
+4341,38,924
+4344,38,968
+4348,38,Boxster
+4353,38,Cayanne
+4359,38,Cayman
+4366,38,Macan
+4374,38,Panamera
+4375,39,316
+4377,39,416
+4380,39,Gen-2
+4384,39,Saga
+4389,39,Savvy
+4395,39,Waja
+4396,40,Symbol
+4398,40,Clio
+4401,40,Megane
+4405,40,Fluence
+4410,40,Talisman
+4416,40,Captur
+4423,40,Kadjar
+4431,40,Latitude
+4440,40,Kangoo
+4450,40,Scenic
+4461,40,Grand Scenic
+4473,40,Laguna
+4486,40,Twingo
+4500,40,Espace
+4515,40,Koleos
+4531,40,Modus
+4548,40,R 11
+4566,40,R 12
+4585,40,R 19
+4605,40,R 21
+4626,40,R 25
+4648,40,R 5
+4671,40,R 9
+4695,40,Safrane
+4696,41,214
+4698,41,216
+4701,41,218
+4705,41,220
+4710,41,25
+4716,41,414
+4723,41,416
+4731,41,420
+4740,41,45
+4750,41,620
+4761,41,75
+4773,41,820
+4786,41,827
+4800,41,Streetwise
+4801,42,9-3
+4803,42,9-5
+4806,42,900
+4810,42,9000
+4813,43,Ibiza
+4815,43,Toledo
+4818,43,Leon
+4822,43,Alhambra
+4827,43,Altea
+4833,43,Cordoba
+4840,43,Exeo
+4848,43,Marbella
+4849,44,Fabia
+4851,44,Rapid
+4854,44,Octavia
+4858,44,Superb
+4863,44,Yeti
+4869,44,Citigo
+4876,44,Favorit
+4884,44,Felicia
+4893,44,Forman
+4903,44,Roomster
+4904,45,Forfour
+4906,45,Fortwo
+4909,45,Roadster
+4910,46,Tivoli
+4912,46,Actyon
+4915,46,Actyon Sports
+4919,46,Korando
+4924,46,Korando Sports
+4930,46,Kyron
+4937,46,Musso
+4945,46,Rexton
+4954,46,Rodius
+4955,47,XV
+4957,47,Forester
+4960,47,Outback
+4964,47,BRZ
+4969,47,Levorg
+4975,47,Impreza
+4982,47,Justy
+4990,47,Legacy
+4999,47,Leone
+5009,47,SVX
+5020,47,Tribeca
+5021,48,Swift
+5023,48,Alto
+5026,48,SX4
+5030,48,Grand Vitara
+5035,48,Baleno
+5041,48,Jimny
+5048,48,Liana
+5056,48,Maruti
+5065,48,SJ
+5075,48,Splash
+5086,48,Vitara
+5087,49,Indica
+5089,49,Indigo
+5092,49,Manza
+5096,49,Safari
+5101,49,Telcoline
+5107,49,Vista
+5114,49,Xenon
+5115,50,Doğan
+5117,50,Kartal
+5120,50,Murat
+5124,50,Şahin
+5129,50,Serçe
+5130,51,Yaris
+5132,51,Auris
+5135,51,Corolla
+5139,51,Verso
+5144,51,Avensis
+5150,51,RAV4
+5157,51,GT 86
+5165,51,Land Cruiser
+5174,51,Prius
+5184,51,Hilux
+5195,51,4Runner
+5207,51,Camry
+5220,51,Carina
+5234,51,Corona
+5249,51,Cressida
+5265,51,FJ Cruiser
+5282,51,Starlet
+5300,51,Urban Cruiser
+5301,52,Polo
+5303,52,Golf
+5306,52,Jetta
+5310,52,Passat
+5315,52,Tiguan
+5321,52,CC
+5328,52,Beetle
+5336,52,Scirocco
+5345,52,Passat Variant
+5355,52,Touareg
+5366,52,Transporter
+5378,52,Caddy
+5391,52,Amarok
+5405,52,Caravelle
+5420,52,Bora
+5436,52,EOS
+5453,52,Lupo
+5471,52,Touran
+5490,52,Vento
+5491,53,V40
+5493,53,V40 Cross Country
+5496,53,S60
+5500,53,V60
+5505,53,S80
+5511,53,XC60
+5518,53,XC70
+5526,53,XC90
+5535,53,850
+5545,53,940
+5556,53,960
+5568,53,C30
+5581,53,C70
+5595,53,S40
+5610,53,S70
+5626,53,V50
+5643,53,V70
